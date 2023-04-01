@@ -1,0 +1,11 @@
+footer {
+    position: fixed;
+    top: 97%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    width: auto;
+    background-color: rgb(182, 174, 174);
+  }
+  
