@@ -1,4 +1,4 @@
-# CherryBotCreator
+# VK Bot Creator
 This program will help you in creating VK bots.
 
 #Setup:
